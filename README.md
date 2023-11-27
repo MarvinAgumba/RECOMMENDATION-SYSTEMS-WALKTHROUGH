@@ -22,9 +22,10 @@ When using algorithms, the two main types are content-based algorithms (recommen
 | pre-computation not possible                         | pre-computation possible                       |
 | relies on similarity metrics between users and items | relies on matrix factorization                 |
 
+
 Recommendation systems have a direct impact on profitability and customer satisfaction for most businesses today. With the nearly limitless options consumers have for products online, they need some guidance! (Applications: *`Help in suggesting the merchants/items which a customer might be interested in after buying a product in a marketplace; Estimate profit & loss of many competing items and make recommendations to the customer (e.g. buying and selling stocks); Based on the experience of the customer, recommend a customer-centric or product-centric offering; Enhance customer engagement by providing offers which can be highly appealing to the customer`*)
 
-### Developing Recommendation Systems from Real-World Datasets
+### Developing Recommendation Systems from Real-World Datasets Explored
  - Books Review on Amazon MarketPlace
  - Movie Lens Dataset
  - Jester Dataset

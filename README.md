@@ -11,7 +11,6 @@ When using algorithms, the two main types are content-based algorithms (recommen
 
 ![image](https://github.com/MarvinAgumba/RECOMMENDATION-SYSTEMS-WALKTHROUGH/assets/122484885/3b77d2a8-01e1-4a82-8fe1-5bb254c720c6)
 
-### Others
 ![image](https://github.com/MarvinAgumba/RECOMMENDATION-SYSTEMS-WALKTHROUGH/assets/122484885/ef7b4648-b5d8-417c-a7fa-c008af887274)
 
 ### Memory vs. Model-Based Collaborative Filtering Approaches

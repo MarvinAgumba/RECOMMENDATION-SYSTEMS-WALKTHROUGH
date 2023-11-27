@@ -7,10 +7,8 @@ When using algorithms, the two main types are content-based algorithms (recommen
 **Unpersonalized recommendation systems** have been happening since way before machine learning was ever in the public knowledge base. An example of an unpersonalized recommendation would be on YouTube which recommends the most viewed videos.
 **Personalized Recommendation Systems:** has many different algorithms: (***Content-Based Recommenders*** - Main Idea: If you like an item, you will also like "similar" items. ***Collaborative Filtering Systems*** - Main Idea: If user A likes items 5, 6, 7, and 8 and user B likes items 5, 6, and 7, then it is highly likely that user B will also like item 8)
 
-### Content-Based Filtering
 ![image](https://github.com/MarvinAgumba/RECOMMENDATION-SYSTEMS-WALKTHROUGH/assets/122484885/7ec2ab65-f562-4c27-9700-3844a45c754c)
 
-### Collaborative Filtering
 ![image](https://github.com/MarvinAgumba/RECOMMENDATION-SYSTEMS-WALKTHROUGH/assets/122484885/3b77d2a8-01e1-4a82-8fe1-5bb254c720c6)
 
 ### Others

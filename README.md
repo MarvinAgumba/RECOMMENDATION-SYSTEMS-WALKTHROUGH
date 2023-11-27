@@ -1,6 +1,6 @@
 # RECOMMENDATION SYSTEMS
 
-A **`recommendation system`** allows predicting the future preference list for a certain customer or user and recommends the top preference for this user. Examples include: which books a customer prefers to buy on Amazon, which Netflix movie or series a user watches next, etc. (**Personalized & Unpersonalized Recommendation Systems**)
+A **recommendation system** allows predicting the future preference list for a certain customer or user and recommends the top preference for this user. Examples include: which books a customer prefers to buy on Amazon, which Netflix movie or series a user watches next, etc. (**Personalized & Unpersonalized Recommendation Systems**)
 
 When using algorithms, the two main types are content-based algorithms (recommending new content based on similar content), and collaborative filtering based (recommending new content based on similar types of users)
 
